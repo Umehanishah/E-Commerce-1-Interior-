@@ -19,7 +19,7 @@ export default function Blog() {
         <section>
           <div className="flex gap-3 md:gap-5 pt-5 md:pt-10 px-3 md:px-10">
 
-          <div className="">
+          <div>
             <Image width={700} height={400} src="/blog-1.png" alt="Laptop" />
             <Image width={300} height={50} src="/blog-g.png" alt="Laptop" className="pt-5 md:pt-10"/>
             <h2 className="pt-5 md:pt-10 text-lg md:text-2xl font-semibold">Going all-in with millennial design</h2>
@@ -36,7 +36,7 @@ export default function Blog() {
 
           </div>
 
-          <div className="">
+          <div>
         <form className="flex items-center max-w-sm mx-auto">   
             <div className="relative w-full">
               <input type="text" id="simple-search" className="bg-gray-50 border border-gray-300
@@ -80,7 +80,7 @@ export default function Blog() {
             <section>
             <div className="flex gap-3 md:gap-5 pt-5 md:pt-10 px-3 md:px-10">
 
-    <div className="">
+    <div>
       <Image width={700} height={400} src="/blog-2.png" alt="Laptop" />
       <Image width={300} height={50} src="/blog-g.png" alt="Laptop" className="pt-5 md:pt-10"/>
       <h2 className="pt-5 md:pt-10 text-lg md:text-2xl font-semibold">Exploring new ways of decorating</h2>
@@ -96,7 +96,7 @@ export default function Blog() {
       <p className="pt-3 md:pt-5 pb-3 md:pb-5 text-xs md:text-sm font-semibold hover:underline">Read more</p>
           </div>
 
-          <div className="">
+          <div>
           <h2 className="text-sm md:text-base pt-2 md:pt-14 font-semibold md:font-bold">Recent Posts</h2>
             
             <div className="flex pt-10 md:pt-10 h-20 md:h-40">
@@ -138,7 +138,7 @@ export default function Blog() {
            <section>
             <div className="flex gap-3 md:gap-5 pt-5 md:pt-10 px-3 md:px-10">
 
-    <div className="">
+    <div>
       <Image width={700} height={400} src="/blog-3.png" alt="Laptop" />
       <Image width={300} height={50} src="/blog-g.png" alt="Laptop" className="pt-5 md:pt-10"/>
       <h2 className="pt-5 md:pt-10 text-lg md:text-2xl font-semibold">Exploring new ways of decorating</h2>
